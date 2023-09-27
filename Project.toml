@@ -1,0 +1,14 @@
+name = "ADplay"
+uuid = "bdae8427-82bf-4a5f-9576-40a3a8e8a8bc"
+authors = ["marius "]
+version = "0.1.0"
+
+[deps]
+AutoGrad = "6710c13c-97f1-543f-91c5-74e8f7d95b35"
+ChainRules = "082447d4-558c-5d27-93f4-14fc19e9eca2"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ChainRulesOverloadGeneration = "f51149dc-2911-5acf-81fc-2076a2a81d4f"
+DiffRules = "b552c78f-8df3-52c6-915a-8e097449b14b"
+PrettyPrinting = "54e16d92-306c-5ea0-a30b-337be88ac337"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Tracker = "9f7883ad-71c0-57eb-9f7f-b5c9e6d3789c"
